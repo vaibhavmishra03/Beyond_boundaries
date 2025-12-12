@@ -2,6 +2,8 @@
 
 A modern, animated farewell website for college cricket friends, built with React, Vite, and Tailwind CSS.
 
+### 🚀 [Live Demo](https://dist-kkl7oddtr-vaibhavmishra03s-projects.vercel.app)
+
 ## Features
 - **Hero Section**: Dynamic "Aurora" background with "Lightning" text effects.
 - **Timeline**: Scroll-triggered animation of memories.
